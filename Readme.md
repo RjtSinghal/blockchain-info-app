@@ -1,0 +1,1 @@
+A simple RUST application to read blockchain data.
